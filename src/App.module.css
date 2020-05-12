@@ -18,6 +18,8 @@
   font-size: 1rem;
   text-transform: uppercase;
   transition-duration: 1s;
+  border: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 .tabButton:hover {
