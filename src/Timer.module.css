@@ -1,0 +1,29 @@
+.timerContainer {
+  display: flex;
+  justify-content: center;
+  margin: 5rem auto;
+}
+
+.time {
+  color: white;
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+.timerActions {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  background-color: transparent;
+  border: none;
+  transition-duration: 1s;
+}
+
+.button:hover {
+  color: #fccbb6;
+}
